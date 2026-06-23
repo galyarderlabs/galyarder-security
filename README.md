@@ -98,9 +98,7 @@ Edit `.env`:
 ANTHROPIC_BASE_URL=http://host.docker.internal:8317
 
 # Proxy Auth Token
-ANTHROPIC_API_KEY=your-local-proxy-token
-
-# Expected Model Identifier
+ANTHROPIC_API_KEY=*** Expected Model Identifier
 CLAUDE_MODEL=gemini-3-pro-preview
 ```
 
